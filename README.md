@@ -8,7 +8,7 @@
 <pre>
   - <a href="https://github.com/asen-krasimirov/OOP-Course-FMI/tree/2025/Seminars/Seminar01">Семинар 01</a> - Увод в типовете дефинирани от потребителя
   - <a href="https://github.com/asen-krasimirov/OOP-Course-FMI/tree/2025/Seminars/Seminar02">Семинар 02</a> - Потоци. Текстови файлове
-  - <a href="#">Семинар 03</a> - Потоци. Двоични файлове
+  - Семинар 03 - Потоци. Двоични файлове
 
 </pre>
 
