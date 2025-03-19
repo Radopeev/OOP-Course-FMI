@@ -9,7 +9,7 @@
   - <a href="https://github.com/asen-krasimirov/OOP-Course-FMI/tree/2025/Seminars/Seminar01">Семинар 01</a> - Увод в типовете дефинирани от потребителя
   - <a href="https://github.com/asen-krasimirov/OOP-Course-FMI/tree/2025/Seminars/Seminar02">Семинар 02</a> - Потоци. Текстови файлове
   - <a href="https://github.com/asen-krasimirov/OOP-Course-FMI/tree/2025/Seminars/Seminar03">Семинар 03</a> - Потоци. Двоични файлове
-  - <a href="#">Семинар 04</a> - Член-функции. Жизнен цикъл на обекти
+  - <a href="https://github.com/asen-krasimirov/OOP-Course-FMI/tree/2025/Seminars/Seminar04">Семинар 04</a> - Член-функции. Жизнен цикъл на обекти
 
 </pre>
 
